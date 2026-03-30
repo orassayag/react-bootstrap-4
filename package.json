@@ -1,11 +1,36 @@
 {
   "name": "react-bootstrap-4",
   "version": "0.1.0",
+  "description": "A React.js starter kit with Bootstrap 4 integration and SCSS styling for building modern, responsive web applications",
+  "keywords": [
+    "react",
+    "bootstrap",
+    "bootstrap4",
+    "scss",
+    "sass",
+    "starter-kit",
+    "boilerplate",
+    "template",
+    "webpack",
+    "react-router",
+    "responsive",
+    "ui-framework"
+  ],
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
+  "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
     "url": "git://github.com/orassayag/react-bootstrap-4.git"
   },
+  "bugs": {
+    "url": "https://github.com/orassayag/react-bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/orassayag/react-bootstrap-4#readme",
   "dependencies": {
     "@babel/core": "7.1.0",
     "@svgr/webpack": "2.4.1",
